@@ -1,6 +1,6 @@
 # 👋 Hola, soy Carlos Mateos
 
-**Desarrollador Full-Stack** desde Sevilla, apasionado por crear aplicaciones modernas y bien diseñadas. 🚀
+**Desarrollador Full-Stack** desde Sevilla, apasionado por crear aplicaciones
 
 ## 🛠️ Tecnologías
 
