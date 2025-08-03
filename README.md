@@ -10,11 +10,6 @@
 
 ## 📂 Proyectos Destacados
 
-### [TestStripe](https://github.com/cmateos91/TestStripe)
-Repositorio de pruebas para integración con Stripe
-- **Tecnología:** JavaScript
-- **Propósito:** Testing de funcionalidades de pago
-
 ### [LEGRITE](https://github.com/cmateos91/LEGRITE)
 - **Tecnología:** Java
 
