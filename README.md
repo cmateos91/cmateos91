@@ -1,12 +1,11 @@
 # 👋 Hola, soy Carlos Mateos
 
-**Desarrollador Full-Stack** desde Sevilla, apasionado por crear aplicaciones
+**Desarrollador Full-Stack** apasionado por crear aplicaciones
 
 ## 🛠️ Tecnologías
 
 - **Frontend:** JavaScript, HTML, CSS
-- **Backend:** Java
-- **Integraciones:** Stripe (pagos)
+- **Backend:** Java ,PHP, SQL
 - **Ubicación:** Sevilla, España
 
 ## 📂 Proyectos Destacados
