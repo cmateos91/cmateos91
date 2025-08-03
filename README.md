@@ -25,4 +25,4 @@ Subir proyectos de uso personal y proyectos de prueba para explorar nuevas tecno
 
 ---
 
-📧 **Contacto:** [Sevilla, España]
+📧 **Contacto:**  cmateo5@proton.me 
