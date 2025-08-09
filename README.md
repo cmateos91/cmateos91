@@ -2,6 +2,8 @@
 
 **💻 Full-Stack Developer** passionate about building modern, efficient, and user-friendly applications.  
 
+🌐 **Portfolio Web3:** [mate0s.netlify.app](https://mate0s.netlify.app/)  
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -22,6 +24,10 @@
 ### [LEGRITE](https://github.com/cmateos91/LEGRITE)  
 - **Technology:** Java  
 - **Description:** Personal project focused on exploring [brief purpose or functionality].  
+
+### [Portfolio Web3](https://mate0s.netlify.app/)  
+- **Technology:** HTML, CSS, JavaScript, Web3 integrations  
+- **Description:** A modern personal portfolio showcasing blockchain and Web3-related projects.  
 
 ---
 
