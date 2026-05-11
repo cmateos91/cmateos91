@@ -25,10 +25,6 @@
 - **Technology:** Java  
 - **Description:** Personal project focused on exploring [brief purpose or functionality].  
 
-### [Portfolio Web3](https://mate0s.netlify.app/)  
-- **Technology:** HTML, CSS, JavaScript, Web3 integrations  
-- **Description:** A modern personal portfolio showcasing blockchain and Web3-related projects.  
-
 ---
 
 ## 🎯 Goals  
