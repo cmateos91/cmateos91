@@ -2,8 +2,6 @@
 
 **💻 Full-Stack Developer** passionate about building modern, efficient, and user-friendly applications.  
 
-🌐 **Portfolio Web3:** [mate0s.netlify.app](https://mate0s.netlify.app/)  
-
 ---
 
 ## 🛠️ Tech Stack  
